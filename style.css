@@ -1,0 +1,44 @@
+body {
+  font-family:font-family: 'Roboto Mono', monospace;;
+  background-color:rgb(229, 249, 219);
+  color:rgb(50, 50, 50);
+  padding:25px;
+  text-align:center;
+}
+
+h1, h2, h3 {
+  font-family:font-family: 'Montserrat', sans-serif, monospace;
+  color:rgb(26, 93, 26);
+}
+
+li {
+  padding:0 20px;
+  display: inline-block;
+  list-style: none;
+  font-size: 40px;
+}
+
+#profile-pic {
+  width:160px;
+  height:165px;
+  border-radius:50%
+}
+#btn-wagon {
+  background-color: rgb(26, 93, 26);
+  color:white;
+  text-decoration:none;
+  padding : 0.5rem;
+}
+a:hover {
+  color:rgb(209, 209, 209);
+}
+
+.categorie {
+  background-color:rgb(250, 250, 250);
+  padding:25px;
+  width:500px;
+  margin:25px auto;
+  border-radius:30px;
+  border:1px solid #f2e7e7;
+  box-shadow: 2px 2px 3px rgb(150, 150, 150);
+}
